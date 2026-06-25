@@ -112,5 +112,6 @@ Rather than relying on purely data-driven prediction, the system combines stereo
 
 ## Disclaimer
 
-This repository is intended to showcase the project's objectives, methodology, and demonstration results. Certain implementation details, source code, algorithms, and supporting resources have been intentionally omitted and are not publicly available.
+This repository is intended to showcase the project's objectives, methodology, and demonstration results. Source code, implementation details, algorithms, and supporting resources have been intentionally omitted and are not publicly available.
+
 
