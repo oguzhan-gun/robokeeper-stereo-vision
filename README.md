@@ -20,8 +20,6 @@ A real-time stereo vision and physics-based ball trajectory prediction system de
 
 The prediction results shown in the demo are available in **[positions.txt](assets/positions.txt)**, which contains the estimated 3D ball positions generated during the simulation.
 
-The prediction results shown in the demo are available in **[positions.txt](assets/positions.txt)**, which contains the estimated 3D ball positions generated during the simulation.
-
 > **Note:** During the first few frames, predictions may be unstable because the stereo vision system has not yet accumulated sufficient measurements for a reliable state estimate. As new observations are incorporated, the predictions converge and stabilize. Invalid predictions are ignored by the goalkeeper controller and are not used for decision-making.
 
 ---
