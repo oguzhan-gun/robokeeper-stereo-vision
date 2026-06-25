@@ -107,3 +107,10 @@ Rather than relying on purely data-driven prediction, the system combines stereo
 * ✅ Goalkeeper control completed
 * 🚧 Continuous development of the simulation model, including improved trajectory prediction, enhanced physics realism, and controller optimization.
 * ⏳ Physical hardware deployment planned following mechanical subsystem integration.
+
+---
+
+## Disclaimer
+
+This repository is intended to showcase the project's objectives, methodology, and demonstration results. Certain implementation details, source code, algorithms, and supporting resources have been intentionally omitted and are not publicly available.
+
